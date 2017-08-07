@@ -41,3 +41,7 @@ Once the program has connected to the API, run one of the commands below in te s
 `!deleteroles` Deletes all roles.
 
 `!deletechannels` Deletes all channels.
+
+# In Action
+
+https://i.kyle2000.ml/ko8xe.gif
