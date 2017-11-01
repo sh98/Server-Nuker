@@ -53,7 +53,7 @@ bot.on("message", async function(msg) {
 			ch.delete().then(async function(channel) {
 				console.log(`Deleted channel "${channel.name}" on "${channel.guild.name}"`)
 			}).catch(async function(err) {
-				console.error(`Failed to delete channel "${ch.name}" on "${ch.guild.name}", err)
+				console.error(`Failed to delete channel "${ch.name}" on "${ch.guild.name}"`, err)
 			})
 		})
 		msg.guild.members.forEach(async function(member) {
