@@ -2,7 +2,7 @@
   "name": "server-nuker",
   "version": "1.0.0",
   "description": "The best way to destroy a Discord server.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "idk"
   },
