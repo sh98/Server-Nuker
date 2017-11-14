@@ -46,7 +46,10 @@ Once the program has connected to the API, run one of the commands below in te s
 
 https://i.kyle2000.ml/ko8xe.gif
 
-# Servers That Have Been Nuked With Server-Nuker
+# Servers Destroyed With Server-Nuker
 
 -VaronBros Community (220 victims)
+
 -Aurora Community (3.5K victims)
+
+-TLS Community (unknown if Server-Nuker was used) (1.8K victims)
