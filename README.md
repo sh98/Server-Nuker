@@ -1,9 +1,9 @@
 # Server Nuker
-Are you pissed at a server that your staff in? 
+Are you a pissed off kid with no life?
 
-Do you fucking hate the server owner?
+Do you wanna waste somebody's time?
 
-Do you want to watch ~~the world~~ a Discord server burn?
+Do you want to watch Kyle's Discord server burn?
 
 Well I got the perfect program for you! Server Nuker!
 
@@ -12,7 +12,7 @@ Server Nuker is a powerful Node.js program that will destroy any Discord server 
 # Disclaimer
 
 
-This program is **very powerful.** It runs **very fast** on small servers (less than 250 members). And it only takes a minute to **ban everyone in the server, and delete all roles/channels.**. **I am not responsible** for any damage you do with this tool, or any punishments you get from the server owners, **or even Discord Staff (They could ban your account for API abuse)**. Please use this tool on an alt account or on a bot account. Don't fucking blame me if your server got nuked with this.
+I have over 100 alts, feel free to blame me.
 
 
 # Install
@@ -52,4 +52,7 @@ https://i.kyle2000.ml/ko8xe.gif
 
 -Aurora Community (3.5K victims)
 
--TLS Community (unknown if Server-Nuker was used) (1.8K victims)
+-Kyle2000 Community (1K victims)
+
+# y did i create dis bot
+I created this bot to make life difficult for server owners.
